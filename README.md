@@ -1,2 +1,1 @@
-# PyQIS_Landslide_Risk
-APPLICATION OF SPATIAL DATA TO IDENTIFY ROAD RISKSIN NUWARA-ELIYA, AMBAGAMUWA AREA, SRI LANKA USING PYQGIS
+This project uses PyQGIS to process and visualize spatial data from various sources, such as satellite imagery, digital elevation models, and road networks. The project also uses machine learning techniques to classify the road segments into different risk levels based on the landslide susceptibility and road condition.
